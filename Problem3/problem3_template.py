@@ -20,9 +20,9 @@ from problem3_trading_params import MyTradingParams
 ##################################################################################
 #                                LOGIC GOES BELOW 								##
 ##################################################################################
-#
-#
-#
+# No:1 - simple moving average or exponential movinng average o last n values of fair price will result in answer or
+# No:2 - Linear regression model will also result in answer or 
+# No:3 - The perfect model would be decision trees which will result in more accurate answer. 
 #
 #
 ##################################################################################
