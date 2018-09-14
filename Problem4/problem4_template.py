@@ -24,7 +24,7 @@ from problem4_trading_params import MyTradingParams
 ##################################################################################
 #                                LOGIC GOES BELOW                               ##
 ##################################################################################
-#
+# The problem falls in category of classification and thus we can use any classifiction algorithm, prefarably SUPPORT VECTOR MACIHNE, NUERAL NETWORK OR LOGISTIC REGRESSION.
 #
 #
 #
